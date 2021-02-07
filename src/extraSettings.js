@@ -38,7 +38,7 @@ let clickChangeFruit = true;
 let adLink = false;
 
 // 修改网页标题：将 "财院易班" 进行替换
-document.getElementsByTagName("title")[0].innerText = '合成大西瓜（湖财院版）';
+document.getElementsByTagName("title")[0].innerText = '合成大西瓜（财院易班版）';
 
 // 开启选分弹窗：将 false 改为 true
 let selectModal = false;
